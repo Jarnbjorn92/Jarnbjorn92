@@ -15,9 +15,6 @@ I'm a passionate developer who loves to create and learn new technologies.
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarnbjorn92&layout=compact&langs_count=6)
-
 ### 🎯 Current Focus
 - 🌱 I'm currently learning TypeScript & Vue
 
