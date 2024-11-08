@@ -19,9 +19,7 @@ I'm a passionate developer who loves to create and learn new technologies.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarnbjorn92&show_icons=true&theme=radical)
 
 ### 🎯 Current Focus
-- 🌱 I'm currently learning [Technology/Skill]
-- 👯 Looking to collaborate on [Type of Projects]
-- 🤔 Exploring [Interest Area]
+- 🌱 I'm currently learning TypeScript & Vue
 
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/connor-j-fleming/)
