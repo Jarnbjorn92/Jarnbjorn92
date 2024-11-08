@@ -16,7 +16,7 @@ I'm a passionate developer who loves to create and learn new technologies.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarnbjorn92&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarnbjorn92&layout=compact&langs_count=6)
 
 ### 🎯 Current Focus
 - 🌱 I'm currently learning TypeScript & Vue
